@@ -1,0 +1,119 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio files
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.sln
+*.sw*
+*.user
+*.suo
+*.cache
+*.cachefile
+*.sdf
+*.opensdf
+*.VC.db
+*.dbmdl
+
+# Rider files
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Auto-generated folders
+[Tt]est[Rr]esult*
+[Bb]uild[Bb]in
+[Bb]uilds
+
+# Gradle
+.gradle/
+/gradle-wrapper.properties
+/.gradle
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Unity3D Generated Animation Preview Thumbnails
+__AnimatorControllerPreview__
+
+# Unity3D Generated Asset Preview Thumbnails
+__AssetPreview__
+
+# Unity3D Generated Upgrade Logs
+UpgradeLog*.txt
+
+# Unity3D Generated UnityYAMLMerge Files
+*.unityyamlmerge
+
+# Unity3D Generated version-specific cache folders
+[Tt]emp/[Vv]ersion*/
+
+# Rider
+.idea/
+.idea/assetWizardSettings.xml
+.idea/caches/
+.idea/codeStyles/
+.idea/dictionaries/
+.idea/misc.xml
+.idea/modules/
+.idea/resourceTypes/
+.idea/scopes/
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Rider files
+.idea/.name
+.idea/.idea.DotSettings.user
+.idea/discover.bin
+.idea/inspectionProfiles
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+
+# Rider personal settings
+.idea/shelf/.workspace.xml
+.idea/shelf/personal
+
+# Rider 2019.2 and earlier
+.idea/assetWizardSettings.xml
+.idea/codeStyles/
+.idea/copyright/
+.idea/dictionaries/
+.idea/discover.bin
+.idea/inspectionProfiles/
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules/
+.idea/vcs.xml
+
+# TextMesh Pro files
+Packages/com.unity.textmeshpro/
