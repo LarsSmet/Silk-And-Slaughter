@@ -11,7 +11,21 @@ Spiders and ants have been at war for a long time now in the insect realm. The a
 
 
 # Gameplay and mechanics
+I wanted the spider to have some cool abilities that use his web. When the player right-clicks he shoots his web. What this does depends on which ability the player equips.
+## Bite
+Of course, the spider needs a basic attack. The player left clicks to bite in front of him and damages all ants hit.
+## Blind
+The player equips his blind ability by pressing 1. If it hits a spider this will temporarily blind them. Which will make them unable to attack or move. This is great to take out a single, or small group of ants. This only costs 1 web.
+## Mark
+The player equips his mark ability by pressing 2. If it hits a wall it will put a marker on it. This helps the player to find his way back in the maze of tunnels in the end nest. This only costs 1 web.
+## Cobweb
+The player equips his cobweb ability by pressing 3. If this hits the ground it will cover an area in web. If enemies walk over it, they will get slowed, until they eventually get fully stunned. When the cobweb runs out, the enemies gain their movement back. This ability is great to take out larger groups of ants, but it also uses 3 webs, which is more than the other abilities.
 
+I was really happy with this mechanic. As it really represents how a web works in real life. The more you try to get out of it, the more you get stuck until eventually they can't move anymore.
+## Destroying the queen and her eggs
+The goal is obviously destroying the queen and her eggs. You have to look for them through all the tunnels whilst surviving all the ants attacking you. The queen is harder to kill and stronger than the other ants. The eggs are destroyable by biting them. After doing so, the ants will seek revenge. Tons of ants will spawn in your path, trying to stop you from escaping the nest.
+## Pickups
+# Level
 
 # Improvements and what's next
 
