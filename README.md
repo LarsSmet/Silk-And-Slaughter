@@ -25,8 +25,13 @@ I was really happy with this mechanic. As it really represents how a web works i
 ## Destroying the queen and her eggs
 The goal is obviously destroying the queen and her eggs. You have to look for them through all the tunnels whilst surviving all the ants attacking you. The queen is harder to kill and stronger than the other ants. The eggs are destroyable by biting them. After doing so, the ants will seek revenge. Tons of ants will spawn in your path, trying to stop you from escaping the nest.
 ## Pickups
-# Level
+There are web and health pickups throughout the level that will restore your web ammo and health.
 
 # Improvements and what's next
+One day I hope to revisit this project, because I really like the concept, even tho it was one of my first prototypes I ever made. Some polishing like animations on the bite and more player feedback when getting hit would be great. But these are more like finishing touches, there are definitely some improvements and additions that I could make to the general gameplay.
+
+One thing that I am not that happy about is the level design. I didn't put a lot of thought behind it at the time, but after gaining more experience throughout the years, I realise that this is actually really important and completely changes the way the game is played. Right now it is very big and all at the same level. If I would remake it today, I would really experiment with height differences. It adds so much more and could also introduce new mechanics. I would also pay more attention to the maze part, making it hard to find the ant queen, which would also make the mark ability more valuable. Also making it darker, the rooms smaller and the halls narrower would also give a more thrilling vibe to the game.
+
+I also had some other abilities planned, like for example an ability where if you hit an ant, you could pull it towards you and kill it. Or another ability that kind of works like a grappling hook. There are lots of possibilities, so I really hope I can find the opportunity someday to remake this project.
 
 
